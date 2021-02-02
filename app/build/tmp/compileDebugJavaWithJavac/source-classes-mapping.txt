@@ -1,0 +1,2 @@
+com/example/trickery_game/BuildConfig.java
+ com.example.trickery_game.BuildConfig
